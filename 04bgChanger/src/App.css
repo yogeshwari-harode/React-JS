@@ -1,0 +1,42 @@
+#colorDiv{
+  border: 2px solid black;
+  border-radius: 7px;
+  margin-left: 300px;
+  margin-top: 500px;
+  background-color: whitesmoke;
+}
+#red{
+  color: white;
+  background-color: red;
+}
+#green{
+  background-color: green;
+  color: white;
+}
+#yellow{
+  background-color: yellow;
+}
+#blue{
+  background-color: blue;
+  color: white;
+}
+#black{
+  background-color: black;
+  color: white;
+}
+#orange{
+  background-color: orange;
+}
+#olive{
+  background-color: olive;
+  color: white;
+}
+#purple{
+  background-color: purple;
+  color: white;
+}
+#red,#green,#yellow,#blue,#black,#orange,#olive,#purple{
+  border: 1px solid black;
+  border-radius: 30px;
+  margin: 5px;
+}
