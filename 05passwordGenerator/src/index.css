@@ -1,0 +1,43 @@
+body{
+  background-color: black;
+  color: white;
+}
+.div1{
+  margin-left: 50vh;
+  width: 550px;
+  background-color: rgb(55, 55, 56);
+  border-radius: 7px;
+  height: 200px;
+  padding: 20px 100px;
+}
+
+.inputArea input{
+  width: 450px;
+  background-color: #fff;
+  padding: 10px;
+  font-size: 15px;
+  outline: none;
+  border-style: none;
+}
+.copybtn{
+  padding: 11px;
+  border: none;
+  background-color: #305cec;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.lengthElement input{
+  width: 100px;
+  margin-left: 0px;
+}
+.bottomArea{
+  display: flex;
+  margin-top: 20px;
+}
+.bottomArea div{
+  padding: 0px 20px;
+  color: orange;
+  font-size: 20px;
+}
